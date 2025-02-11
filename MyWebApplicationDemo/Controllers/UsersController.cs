@@ -124,9 +124,30 @@ namespace MyWebApplicationDemo.Controllers
 
 
 
+        //[HttpPost("login")]
+        //public async Task<IActionResult> Login([FromBody] User loginModel)
+        //{
+        //    var user = await _context.Users.FirstOrDefaultAsync(u => u.Email == loginModel.Email);
+
+        //    if (user == null || !PasswordHasher.VerifyPassword(loginModel.PasswordHash, user.PasswordHash))
+        //    {
+        //        return Unauthorized(new { message = "Invalid email or password" });
+        //    }
+
+        //    return Ok(new { message = "Login successful!" });
+        //}
+
+
+
+
         [HttpPost("login")]
-        public async Task<IActionResult> Login([FromBody] User loginModel)
+        public async Task<IActionResult> Login([FromBody] LoginRequest loginModel)
         {
+            if (string.IsNullOrEmpty(loginModel.Email) || string.IsNullOrEmpty(loginModel.PasswordHash))
+            {
+                return BadRequest(new { message = "Email and password are required." });
+            }
+
             var user = await _context.Users.FirstOrDefaultAsync(u => u.Email == loginModel.Email);
 
             if (user == null || !PasswordHasher.VerifyPassword(loginModel.PasswordHash, user.PasswordHash))
@@ -136,6 +157,7 @@ namespace MyWebApplicationDemo.Controllers
 
             return Ok(new { message = "Login successful!" });
         }
+
 
 
 

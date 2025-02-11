@@ -144,7 +144,7 @@
     "Parameters": [
       {
         "Name": "loginModel",
-        "Type": "MyWebApplicationDemo.Models.User",
+        "Type": "MyWebApplicationDemo.Models.LoginRequest",
         "IsRequired": true
       }
     ],

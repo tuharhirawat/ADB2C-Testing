@@ -256,3 +256,4 @@ C:\Users\HP\Desktop\AD-B2C\MyWebApplicationDemo\obj\Debug\net8.0\MyWebApplicatio
 C:\Users\HP\Desktop\AD-B2C\MyWebApplicationDemo\obj\Debug\net8.0\ref\MyWebApplicationDemo.dll
 C:\Users\HP\Desktop\AD-B2C\MyWebApplicationDemo\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\HP\Desktop\AD-B2C\MyWebApplicationDemo\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\HP\Desktop\AD-B2C\MyWebApplicationDemo\obj\Debug\net8.0\MyWebApplicationDemo.sourcelink.json
