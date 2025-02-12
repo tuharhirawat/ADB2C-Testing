@@ -1,8 +1,8 @@
 {
   "openapi": "3.0.1",
   "info": {
-    "title": "MyWebApplicationDemo",
-    "version": "1.0"
+    "title": "My API",
+    "version": "v1"
   },
   "paths": {
     "/api/Users": {
@@ -402,6 +402,17 @@
         },
         "additionalProperties": false
       }
+    },
+    "securitySchemes": {
+      "Bearer": {
+        "type": "http",
+        "description": "Enter 'Bearer {token}'",
+        "scheme": "Bearer",
+        "bearerFormat": "JWT"
+      }
     }
-  }
+  },
+  "security": [
+    { }
+  ]
 }
