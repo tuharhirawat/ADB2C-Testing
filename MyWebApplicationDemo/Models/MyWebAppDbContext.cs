@@ -1,31 +1,67 @@
-﻿using System;
-using System.Collections.Generic;
+﻿//using System;
+//using System.Collections.Generic;
+//using Microsoft.EntityFrameworkCore;
+//using Microsoft.EntityFrameworkCore.Metadata;
+
+//namespace MyWebApplicationDemo.Models
+//{
+//    public partial class MyWebAppDbContext : DbContext
+//    {
+//        public MyWebAppDbContext()
+//        {
+//        }
+
+//        public MyWebAppDbContext(DbContextOptions<MyWebAppDbContext> options)
+//            : base(options)
+//        {
+//        }
+
+//        public virtual DbSet<User> Users { get; set; } = null!;
+
+//        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+//        {
+//            if (!optionsBuilder.IsConfigured)
+//            {
+//#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
+//                optionsBuilder.UseSqlServer("Server=DESKTOP-SOIPSNR;Database=MyWebAppDB;Trusted_Connection=True;TrustServerCertificate=True;");
+//            }
+//        }
+
+//        protected override void OnModelCreating(ModelBuilder modelBuilder)
+//        {
+//            modelBuilder.Entity<User>(entity =>
+//            {
+//                entity.Property(e => e.CreatedAt).HasDefaultValueSql("(getdate())");
+//            });
+
+//            OnModelCreatingPartial(modelBuilder);
+//        }
+
+//        partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
+//    }
+//}
+
+
+
+
+
+
+
+// #1 update on 2/12/2025
+
+
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Metadata;
 
 namespace MyWebApplicationDemo.Models
 {
     public partial class MyWebAppDbContext : DbContext
     {
-        public MyWebAppDbContext()
-        {
-        }
-
         public MyWebAppDbContext(DbContextOptions<MyWebAppDbContext> options)
             : base(options)
         {
         }
 
         public virtual DbSet<User> Users { get; set; } = null!;
-
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            if (!optionsBuilder.IsConfigured)
-            {
-#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
-                optionsBuilder.UseSqlServer("Server=DESKTOP-SOIPSNR;Database=MyWebAppDB;Trusted_Connection=True;TrustServerCertificate=True;");
-            }
-        }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
