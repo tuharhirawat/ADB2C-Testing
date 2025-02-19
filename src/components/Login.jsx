@@ -51,15 +51,19 @@ import React from "react";
 import { useMsal } from "@azure/msal-react";
 import { loginRequest } from "../authConfig";
 import styled from "styled-components";
+import { useNavigate } from "react-router-dom";
 
 const Login = () => {
   const { instance } = useMsal();
+  const Navigate= useNavigate();
 
   const handleLogin = async () => {
     try {
       // Redirect-based login
       const response = await instance.loginPopup(loginRequest);
       console.log("Login Successful:", response);
+      Navigate("/directworkorder");
+
 
       // Set the active account
       instance.setActiveAccount(response.account);
