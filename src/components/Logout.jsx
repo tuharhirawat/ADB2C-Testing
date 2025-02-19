@@ -1,4 +1,3 @@
-// src/components/Logout.jsx
 import React from "react";
 import { useMsal } from "@azure/msal-react";
 import styled from "styled-components";
