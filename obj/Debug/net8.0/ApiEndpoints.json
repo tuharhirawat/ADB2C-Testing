@@ -1,0 +1,42 @@
+[
+  {
+    "ContainingType": "SecureController",
+    "Method": "GetSecureData",
+    "RelativePath": "api/secure/data",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast/forecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[DemoApplicatoion.WeatherForecast, DemoApplicatoion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WeatherForecastController",
+    "Method": "GetSecureData",
+    "RelativePath": "WeatherForecast/secure-data",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
