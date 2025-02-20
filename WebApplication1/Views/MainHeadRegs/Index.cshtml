@@ -1,0 +1,59 @@
+﻿@model IEnumerable<MainHeadReg>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.HeadName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Remarks)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Discount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Custom)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RemarkStatus)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.HeadName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Remarks)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Discount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Custom)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RemarkStatus)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.MainHeadId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.MainHeadId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.MainHeadId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,71 @@
+﻿@model IEnumerable<WebApplication1.Models.WorkOrderMaster>
+
+@{
+    ViewData["Title"] = "Work Order";
+}
+
+<h2>Work Order</h2>
+
+<div class="container">
+    <form method="post" action="/WorkOrder/Create">
+        <div class="row">
+            <div class="col-md-6">
+                <label>Order No:</label>
+                <input type="text" class="form-control" name="OrderNo" required />
+            </div>
+            <div class="col-md-6">
+                <label>Studio Name:</label>
+                <input type="text" class="form-control" name="StudioName" required />
+            </div>
+        </div>
+
+        <div class="row mt-2">
+            <div class="col-md-6">
+                <label>No. of Sheets:</label>
+                <input type="number" class="form-control" name="NoOfSheets" required />
+            </div>
+            <div class="col-md-6">
+                <label>No. of Copies:</label>
+                <input type="number" class="form-control" name="NoOfCopies" required />
+            </div>
+        </div>
+
+        <div class="row mt-2">
+            <div class="col-md-6">
+                <label>Delivery Date:</label>
+                <input type="date" class="form-control" name="DeliveryDate" required />
+            </div>
+            <div class="col-md-6">
+                <label>Delivery Mode:</label>
+                <select class="form-control" name="DeliveryMode">
+                    <option>Normal</option>
+                    <option>Urgent</option>
+                </select>
+            </div>
+        </div>
+
+        <h3 class="mt-3">Work Order Items</h3>
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Main Head</th>
+                    <th>Sub Head</th>
+                    <th>Qty</th>
+                    <th>Rate</th>
+                    <th>Amount</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><input type="text" class="form-control" name="MainHead" /></td>
+                    <td><input type="text" class="form-control" name="SubHead" /></td>
+                    <td><input type="number" class="form-control" name="Qty" /></td>
+                    <td><input type="number" class="form-control" name="Rate" /></td>
+                    <td><input type="number" class="form-control" name="Amount" readonly /></td>
+                </tr>
+            </tbody>
+        </table>
+
+        <button type="submit" class="btn btn-primary">Save Work Order</button>
+    </form>
+</div>

@@ -1,0 +1,501 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApplication1
+build_property.RootNamespace = WebApplication1
+build_property.ProjectDir = C:\Users\HARI PRIYA\OneDrive\Desktop\webApplication1\WebApplication1\WebApplication1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\HARI PRIYA\OneDrive\Desktop\webApplication1\WebApplication1\WebApplication1
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/AreaMasters/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJlYU1hc3RlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/AreaMasters/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJlYU1hc3RlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/AreaMasters/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJlYU1hc3RlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/AreaMasters/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJlYU1hc3RlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/AreaMasters/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJlYU1hc3RlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/BillWorkDetails/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbFdvcmtEZXRhaWxzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/BillWorkDetails/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbFdvcmtEZXRhaWxzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/BillWorkDetails/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbFdvcmtEZXRhaWxzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/BillWorkDetails/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbFdvcmtEZXRhaWxzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/BillWorkDetails/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbFdvcmtEZXRhaWxzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/CustomerRegs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJSZWdzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/CustomerRegs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJSZWdzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/CustomerRegs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJSZWdzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/CustomerRegs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJSZWdzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/CustomerRegs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJSZWdzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/DeliveryMasters/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVsaXZlcnlNYXN0ZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/DeliveryMasters/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVsaXZlcnlNYXN0ZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/DeliveryMasters/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVsaXZlcnlNYXN0ZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/DeliveryMasters/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVsaXZlcnlNYXN0ZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/DeliveryMasters/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVsaXZlcnlNYXN0ZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/MachineRegs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFjaGluZVJlZ3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/MachineRegs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFjaGluZVJlZ3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/MachineRegs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFjaGluZVJlZ3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/MachineRegs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFjaGluZVJlZ3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/MachineRegs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFjaGluZVJlZ3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/MainHeadRegs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpbkhlYWRSZWdzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/MainHeadRegs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpbkhlYWRSZWdzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/MainHeadRegs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpbkhlYWRSZWdzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/MainHeadRegs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpbkhlYWRSZWdzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/MainHeadRegs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpbkhlYWRSZWdzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/ReceiptMasters/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZWlwdE1hc3RlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/ReceiptMasters/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZWlwdE1hc3RlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/ReceiptMasters/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZWlwdE1hc3RlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/ReceiptMasters/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZWlwdE1hc3RlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/ReceiptMasters/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZWlwdE1hc3RlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/SubHeadConditionMasters/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViSGVhZENvbmRpdGlvbk1hc3RlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/SubHeadConditionMasters/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViSGVhZENvbmRpdGlvbk1hc3RlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/SubHeadConditionMasters/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViSGVhZENvbmRpdGlvbk1hc3RlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/SubHeadConditionMasters/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViSGVhZENvbmRpdGlvbk1hc3RlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/SubHeadConditionMasters/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViSGVhZENvbmRpdGlvbk1hc3RlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/TaskAssignments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza0Fzc2lnbm1lbnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/TaskAssignments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza0Fzc2lnbm1lbnRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/TaskAssignments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza0Fzc2lnbm1lbnRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/TaskAssignments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza0Fzc2lnbm1lbnRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/TaskAssignments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza0Fzc2lnbm1lbnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/TransactionDetails/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25EZXRhaWxzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/TransactionDetails/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25EZXRhaWxzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/TransactionDetails/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25EZXRhaWxzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/TransactionDetails/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25EZXRhaWxzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/TransactionDetails/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25EZXRhaWxzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/TransactionMains/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25NYWluc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/TransactionMains/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25NYWluc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/TransactionMains/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25NYWluc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/TransactionMains/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25NYWluc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/TransactionMains/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25NYWluc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/UpdateSubHeadDetails1/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXBkYXRlU3ViSGVhZERldGFpbHMxXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/UpdateSubHeadDetails1/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXBkYXRlU3ViSGVhZERldGFpbHMxXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/UpdateSubHeadDetails1/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXBkYXRlU3ViSGVhZERldGFpbHMxXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/UpdateSubHeadDetails1/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXBkYXRlU3ViSGVhZERldGFpbHMxXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/UpdateSubHeadDetails1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXBkYXRlU3ViSGVhZERldGFpbHMxXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/UpdateSubHeadDetails/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXBkYXRlU3ViSGVhZERldGFpbHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/UpdateSubHeadDetails/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXBkYXRlU3ViSGVhZERldGFpbHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/UpdateSubHeadDetails/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXBkYXRlU3ViSGVhZERldGFpbHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/UpdateSubHeadDetails/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXBkYXRlU3ViSGVhZERldGFpbHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/UpdateSubHeadDetails/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXBkYXRlU3ViSGVhZERldGFpbHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkOrderAdvanceDetails1/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya09yZGVyQWR2YW5jZURldGFpbHMxXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkOrderAdvanceDetails1/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya09yZGVyQWR2YW5jZURldGFpbHMxXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkOrderAdvanceDetails1/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya09yZGVyQWR2YW5jZURldGFpbHMxXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkOrderAdvanceDetails1/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya09yZGVyQWR2YW5jZURldGFpbHMxXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkOrderAdvanceDetails1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya09yZGVyQWR2YW5jZURldGFpbHMxXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkOrderAdvanceDetails/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya09yZGVyQWR2YW5jZURldGFpbHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkOrderAdvanceDetails/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya09yZGVyQWR2YW5jZURldGFpbHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkOrderAdvanceDetails/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya09yZGVyQWR2YW5jZURldGFpbHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkOrderAdvanceDetails/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya09yZGVyQWR2YW5jZURldGFpbHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkOrderAdvanceDetails/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya09yZGVyQWR2YW5jZURldGFpbHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkOrderAdvanceModeDetails/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya09yZGVyQWR2YW5jZU1vZGVEZXRhaWxzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkOrderAdvanceModeDetails/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya09yZGVyQWR2YW5jZU1vZGVEZXRhaWxzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkOrderAdvanceModeDetails/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya09yZGVyQWR2YW5jZU1vZGVEZXRhaWxzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkOrderAdvanceModeDetails/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya09yZGVyQWR2YW5jZU1vZGVEZXRhaWxzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkOrderAdvanceModeDetails/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya09yZGVyQWR2YW5jZU1vZGVEZXRhaWxzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkOrderAlbumSizeDetails1/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya09yZGVyQWxidW1TaXplRGV0YWlsczFcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkOrderAlbumSizeDetails1/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya09yZGVyQWxidW1TaXplRGV0YWlsczFcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkOrderAlbumSizeDetails1/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya09yZGVyQWxidW1TaXplRGV0YWlsczFcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkOrderAlbumSizeDetails1/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya09yZGVyQWxidW1TaXplRGV0YWlsczFcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkOrderAlbumSizeDetails1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya09yZGVyQWxidW1TaXplRGV0YWlsczFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkOrderDetails/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya09yZGVyRGV0YWlsc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkOrderDetails/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya09yZGVyRGV0YWlsc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkOrderDetails/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya09yZGVyRGV0YWlsc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkOrderDetails/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya09yZGVyRGV0YWlsc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkOrderDetails/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya09yZGVyRGV0YWlsc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkOrderMasters/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya09yZGVyTWFzdGVyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkOrderMasters/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya09yZGVyTWFzdGVyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkOrderMasters/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya09yZGVyTWFzdGVyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkOrderMasters/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya09yZGVyTWFzdGVyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkOrderMasters/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya09yZGVyTWFzdGVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkOrderTaxDetails/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya09yZGVyVGF4RGV0YWlsc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkOrderTaxDetails/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya09yZGVyVGF4RGV0YWlsc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkOrderTaxDetails/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya09yZGVyVGF4RGV0YWlsc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkOrderTaxDetails/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya09yZGVyVGF4RGV0YWlsc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkOrderTaxDetails/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya09yZGVyVGF4RGV0YWlsc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkOrderTimeDetails/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya09yZGVyVGltZURldGFpbHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkOrderTimeDetails/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya09yZGVyVGltZURldGFpbHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkOrderTimeDetails/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya09yZGVyVGltZURldGFpbHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkOrderTimeDetails/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya09yZGVyVGltZURldGFpbHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkOrderTimeDetails/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya09yZGVyVGltZURldGFpbHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkOrder/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya09yZGVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkTypes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya1R5cGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkTypes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya1R5cGVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkTypes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya1R5cGVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkTypes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya1R5cGVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/WorkTypes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya1R5cGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HARI PRIYA/OneDrive/Desktop/webApplication1/WebApplication1/WebApplication1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-bddmc6yalx
