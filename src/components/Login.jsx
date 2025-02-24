@@ -59,16 +59,13 @@ const Login = () => {
 
   const handleLogin = async () => {
     try {
-      // Redirect-based login
       const response = await instance.loginPopup(loginRequest);
       console.log("Login Successful:", response);
       Navigate("/directworkorder");
 
 
-      // Set the active account
       instance.setActiveAccount(response.account);
 
-      // Fetch the access token
       await getAccessToken();
     } catch (error) {
       console.error("Login failed:", error);

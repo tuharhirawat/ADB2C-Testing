@@ -1,44 +1,3 @@
-// import React from "react";
-// import { Link } from "react-router-dom";
-
-// function Header() {
-//   return (
-//     <nav>
-//       <ul style={{ display: "flex", listStyle: "none", padding: 0 }}>
-//         <li style={{ margin: "0 10px" }}>
-//           <Link to="/workorder">Work Order</Link>
-//         </li>
-//         <li style={{ margin: "0 10px" }}>
-//           <Link to="/directworkorder">Direct-Work</Link>
-//         </li>
-//         <li style={{ margin: "0 10px" }}>
-//           <Link to="/customerform">Customer</Link>
-//         </li>
-//         <li style={{ margin: "0 10px" }}>
-//           <Link to="/quality">Quality</Link>
-//         </li>
-//         <li style={{ margin: "0 10px" }}>
-//           <Link to="/remarks">Remarks</Link>
-//         </li>
-//         <li style={{ margin: "0 10px" }}>
-//           <Link to="/inventory">Inventory</Link>
-//         </li>
-//         <li style={{ margin: "0 10px" }}>
-//           <Link to="/reports">Reports</Link>
-//         </li>
-//         <li style={{ margin: "0 10px" }}>
-//           <Link to="/">Logout</Link>
-//         </li>
-//         <li style={{ margin: "0 10px" }}>
-//           <div id="current-time"></div>
-//         </li>
-//       </ul>
-//     </nav>
-//   );
-// }
-
-// export default Header;
-
 import React from "react";
 import { NavLink } from "react-router-dom";
 import styled from "styled-components";
@@ -153,7 +112,13 @@ const Sidebar = () => {
           <SidebarLink to="/individual-rate">Individual Rate</SidebarLink>
         </SidebarItem>
         <SidebarItem>
-          <SidebarLink to="/login">Logout</SidebarLink>
+          <SidebarLink to="/azure_login">Logout</SidebarLink>
+        </SidebarItem>
+        <SidebarItem>
+          <SidebarLink to="/login">Normal-Login</SidebarLink>
+        </SidebarItem>
+        <SidebarItem>
+          <SidebarLink to="/signup">Normal-Signup</SidebarLink>
         </SidebarItem>
       </SidebarList>
     </SidebarContainer>
@@ -188,7 +153,7 @@ const Header = () => {
             <StyledNavLink to="/reports">Reports</StyledNavLink>
           </NavItem>
           <NavItem>
-            <StyledNavLink to="/login">Logout</StyledNavLink>
+            <StyledNavLink to="/azure_login">Logout</StyledNavLink>
           </NavItem>
           <NavItem>
             <div id="current-time"></div>

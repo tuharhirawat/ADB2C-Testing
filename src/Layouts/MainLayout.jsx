@@ -5,7 +5,6 @@ import Footer from "../Components/Footer";
 function MainLayout({ children }) {
   return (
     <div>
-      {/* <SignupForm /> */}
       <Header />
       <main>{children}</main>
       <Footer />
