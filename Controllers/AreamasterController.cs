@@ -1,18 +1,3 @@
-//using Microsoft.AspNetCore.Http;
-//using Microsoft.AspNetCore.Mvc;
-
-//namespace MyApp.Namespace
-//{
-//    [Route("api/[controller]")]
-//    [ApiController]
-//    public class AreamasterController : ControllerBase
-//    {
-
-//    }
-//}
-
-
-
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Sarat_Proj.Models;

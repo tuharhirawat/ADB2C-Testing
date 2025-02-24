@@ -1,41 +1,15 @@
-﻿//using Microsoft.AspNetCore.Http;
-//using Microsoft.AspNetCore.Mvc;
-
-//namespace MyApp.Namespace
-//{
-//    [Route("api/[controller]")]
-//    [ApiController]
-//    public class WorkordermasterController : ControllerBase
-//    {
-//    }
-//}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Sarat_Proj.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Sarat_Proj.Controllers
 {
     [Route("api/[controller]")]
+    [Authorize]
     [ApiController]
     public class WorkordermasterController : ControllerBase
     {
@@ -46,14 +20,12 @@ namespace Sarat_Proj.Controllers
             _context = context;
         }
 
-        // ✅ GET all records
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Workordermaster>>> GetAll()
         {
             return await _context.Workordermasters.ToListAsync();
         }
 
-        // ✅ GET a single record by ID
         [HttpGet("{id}")]
         public async Task<ActionResult<Workordermaster>> GetById(int id)
         {
@@ -65,7 +37,6 @@ namespace Sarat_Proj.Controllers
             return entity;
         }
 
-        // ✅ POST - Add new record
         [HttpPost]
         public async Task<ActionResult<Workordermaster>> Create(Workordermaster entity)
         {
@@ -74,7 +45,6 @@ namespace Sarat_Proj.Controllers
             return CreatedAtAction(nameof(GetById), new { id = entity.Id }, entity);
         }
 
-        // ✅ PUT - Update record
         [HttpPut("{id}")]
         public async Task<IActionResult> Update(int id, Workordermaster entity)
         {
@@ -104,7 +74,6 @@ namespace Sarat_Proj.Controllers
             return NoContent();
         }
 
-        // ✅ DELETE - Remove record
         [HttpDelete("{id}")]
         public async Task<IActionResult> Delete(int id)
         {

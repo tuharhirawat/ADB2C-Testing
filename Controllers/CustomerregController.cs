@@ -1,19 +1,4 @@
-﻿//using Microsoft.AspNetCore.Http;
-//using Microsoft.AspNetCore.Mvc;
-
-//namespace MyApp.Namespace
-//{
-//    [Route("api/[controller]")]
-//    [ApiController]
-//    public class CustomerregController : ControllerBase
-//    {
-//    }
-//}
-
-
-
-
-
+﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Sarat_Proj.Models;
@@ -24,6 +9,7 @@ using System.Threading.Tasks;
 namespace Sarat_Proj.Controllers
 {
     [Route("api/[controller]")]
+    [Authorize]
     [ApiController]
     public class CustomerregController : ControllerBase
     {
@@ -34,14 +20,12 @@ namespace Sarat_Proj.Controllers
             _context = context;
         }
 
-        // ✅ GET all records
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Customerreg>>> GetAll()
         {
             return await _context.Customerregs.ToListAsync();
         }
 
-        // ✅ GET a single record by ID
         [HttpGet("{id}")]
         public async Task<ActionResult<Customerreg>> GetById(int id)
         {
@@ -53,7 +37,6 @@ namespace Sarat_Proj.Controllers
             return entity;
         }
 
-        // ✅ POST - Add new record
         [HttpPost]
         public async Task<ActionResult<Customerreg>> Create(Customerreg entity)
         {
@@ -62,7 +45,6 @@ namespace Sarat_Proj.Controllers
             return CreatedAtAction(nameof(GetById), new { id = entity.Customerid }, entity);
         }
 
-        // ✅ PUT - Update record
         [HttpPut("{id}")]
         public async Task<IActionResult> Update(int id, Customerreg entity)
         {
@@ -92,7 +74,6 @@ namespace Sarat_Proj.Controllers
             return NoContent();
         }
 
-        // ✅ DELETE - Remove record
         [HttpDelete("{id}")]
         public async Task<IActionResult> Delete(int id)
         {

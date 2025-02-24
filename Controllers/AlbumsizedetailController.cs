@@ -1,16 +1,4 @@
-//using Microsoft.AspNetCore.Http;
-//using Microsoft.AspNetCore.Mvc;
-
-//namespace MyApp.Namespace
-//{
-//    [Route("api/[controller]")]
-//    [ApiController]
-//    public class AlbumsizedetailController : ControllerBase
-//    {
-//    }
-//}
-
-
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Sarat_Proj.Models;
@@ -21,6 +9,7 @@ using System.Threading.Tasks;
 namespace Sarat_Proj.Controllers
 {
     [Route("api/[controller]")]
+    [Authorize]
     [ApiController]
     public class AlbumsizedetailController : ControllerBase
     {
@@ -31,14 +20,12 @@ namespace Sarat_Proj.Controllers
             _context = context;
         }
 
-        // GET: api/Albumsizedetail
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Albumsizedetail>>> GetAlbumsizedetails()
         {
             return await _context.Albumsizedetails.ToListAsync();
         }
 
-        // GET: api/Albumsizedetail/5
         [HttpGet("{id}")]
         public async Task<ActionResult<Albumsizedetail>> GetAlbumsizedetail(int id)
         {
@@ -50,7 +37,6 @@ namespace Sarat_Proj.Controllers
             return albumsizedetail;
         }
 
-        // POST: api/Albumsizedetail
         [HttpPost]
         public async Task<ActionResult<Albumsizedetail>> PostAlbumsizedetail(Albumsizedetail albumsizedetail)
         {
@@ -59,7 +45,6 @@ namespace Sarat_Proj.Controllers
             return CreatedAtAction(nameof(GetAlbumsizedetail), new { id = albumsizedetail.Sizeid }, albumsizedetail);
         }
 
-        // PUT: api/Albumsizedetail/5
         [HttpPut("{id}")]
         public async Task<IActionResult> PutAlbumsizedetail(int id, Albumsizedetail albumsizedetail)
         {
@@ -72,7 +57,6 @@ namespace Sarat_Proj.Controllers
             return NoContent();
         }
 
-        // DELETE: api/Albumsizedetail/5
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteAlbumsizedetail(int id)
         {

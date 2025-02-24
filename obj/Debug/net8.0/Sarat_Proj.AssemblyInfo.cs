@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sarat_Proj")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a60bcb8183ccc5daa6ad0c4c558dcb57809200f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sarat_Proj")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sarat_Proj")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
