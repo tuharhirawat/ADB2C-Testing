@@ -59,9 +59,9 @@ const Login = () => {
 
   const handleLogin = async () => {
     try {
-      const response = await instance.loginPopup(loginRequest);
+      const response = await instance.loginRedirect(loginRequest);
       console.log("Login Successful:", response);
-      Navigate("/directworkorder");
+      Navigate("/workorder");
 
 
       instance.setActiveAccount(response.account);
@@ -110,7 +110,7 @@ const Login = () => {
       console.error("Silent token acquisition failed, trying interactive login", error);
   
       try {
-        const popupResponse = await instance.acquireTokenPopup(loginRequest);
+        const popupResponse = await instance.acquireTokenRedirect(loginRequest);
         console.log("Access Token (Popup):", popupResponse.accessToken);
         return popupResponse.accessToken;
       } catch (popupError) {

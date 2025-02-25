@@ -7,13 +7,11 @@ const FooterContainer = styled.footer`
   padding: 15px;
   text-align: center;
   font-size: 14px;
-  position: relative;
   bottom: 0;
+  right: 0;
+  left: 0;
   width: 100%;
-
-  p {
-    margin: 5px 0;
-  }
+  margin-top: auto; /* Pushes footer down when needed */
 `;
 
 const Footer = () => {
